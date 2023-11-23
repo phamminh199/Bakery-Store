@@ -1,6 +1,6 @@
 BakeryStore
 
-Project semester 2 - FPT Aptech Teach used: PHP - Laravel - HTML/CSS/JS - AJAX - Bootstrap - Google Map Platform APis
+Project semester 2 - FPT Aptech Tech used: PHP - Laravel - HTML/CSS/JS - AJAX - Bootstrap - Google Map Platform APis
 
 Team members include:
 
